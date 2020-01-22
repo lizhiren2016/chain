@@ -1,0 +1,17 @@
+{
+  "timestamp": 1578625108399,
+  "proof": 100,
+  "previousHash": "1cedb278bd64b910c2d4b91339bc3747960b9e0acf4a7cda8ec217c558f429ad",
+  "transactions": [
+    {
+      "id": "1",
+      "blockId": "8593810399212843182",
+      "timestamp": "0",
+      "sender": "genesis sender",
+      "recipient": "genesis recipient",
+      "amount": 0
+    }
+  ],
+  "height": 1,
+  "id": "8593810399212843182"
+}

@@ -1,0 +1,21 @@
+{
+  "port": 3001,
+  "p2pPort": 6001,
+  "address": "0.0.0.0",
+  "fileLogLevel": "info",
+  "consoleLogLevel": "log",
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/ebookcoin.key",
+      "cert": "./ssl/ebookcoin.crt"
+    }
+  },
+  "peers": [
+    "ws://localhost:6002",
+    "ws://localhost:6003",
+    "ws://localhost:6004"
+  ]
+}
